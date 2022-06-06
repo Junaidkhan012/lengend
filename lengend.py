@@ -78,9 +78,9 @@ def kotak():
 | .
 | "Aala zindagi ki 4 nishaniyan hain. Naik guftar, naik kirdaar, naik neeyat aur naik sohbat."
 |
-|  ENJOY THIS TOOL.   |
-|   FREE. |
-| Lewat Facebook Saja %s#Skrng Rawa Nya Bocil ngep".%s   |
+|  ENJOY THIS TOOL. I HOPE U WILL LIKE IT AS WELL  |
+|  THANKS FOR USING MY TOOL FREE. |
+| FRIEND FOR EVER %s#JUNAID ZEESHAN SAKIB ZIA".%s   |
 |____________________________________________________|"""%(orange,M,orange))
 def banner():
 	print("""%s
@@ -295,7 +295,7 @@ class ngentod:
                         elif ind in ('1', '01'):
                             print '\n %s[%s*%s] akun %sOK%s tersimpan di >%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
                             print '%s [%s*%s] akun %sCP %stersimpan di > %shasil/CP-%s-%s-%s.txt'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
-                            print '\n    %s>>>>>>>>>>>> %sSemoga Hari Mu suram %s<<<<<<<<<<<<\n'%(P,K,P);jeda(0.2)
+                            print '\n    %s>>>>>>>>>>>> %sCRACK HAS BEEN STARTED %s<<<<<<<<<<<<\n'%(P,K,P);jeda(0.2)
                             with ThreadPoolExecutor(max_workers=30) as log:
                                 for akun in self.id:
                                     try:
@@ -708,9 +708,9 @@ def menu():
     banner()
     kotak()
 #    banner()
-    print (' %s[∆] Auhtor    : Changcuters'%(P))
-    print (' [∆] gh auhtor : https://github.com/Changcuters')
-    print (' [∆] gh auhtor : https://github.com/Haeckerfb')
+    print (' %s[∆] Author    : JUNAID KHAN'%(P))
+    print (' [∆] git hub : https://github.com/Junaidkhan012/lengend.git')
+    print (' [∆] whatapp : 03027730173')
     print (jembut)
     print (' [∆] Name Tumbal Anda : %s'%(nama))
     print (' [∆] ID  Tumbal Anda  : %s'%(id))
